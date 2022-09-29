@@ -1,0 +1,12 @@
+{
+  "web": {
+    "client_id": "553905519457-11f4t9hj4hdpdb1r47skjqup8gs85ohd.apps.googleusercontent.com",
+    "project_id": "hallowed-zoo-354806",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_secret": "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",
+    "redirect_uris": ["http://localhost:3060/auth/google/callback"],
+    "javascript_origins": ["http://localhost:3060"]
+  }
+}

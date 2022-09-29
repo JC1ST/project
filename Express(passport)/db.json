@@ -1,0 +1,31 @@
+{
+  "users": [
+    {
+      "id": "Owf_cB77c",
+      "email": "kjongchan777@gmail.com",
+      "displayName": "김종찬",
+      "googleId": "107526747114203519649",
+      "password": "$2b$10$i/VRXAOrUuFv5cgq/C02defEVASXEWfsA2HazCuXjHJmdmf6ws5Au"
+    },
+    {
+      "id": "vx__MH2Ez",
+      "email": "qwerty",
+      "password": "$2b$10$I1gJO7ZXrgToKdbv70Z/luZR9UWYRoiOvJ1fFIjxK3wDb14bJle.G",
+      "displayName": "qwerty"
+    }
+  ],
+  "topics": [
+    {
+      "id": "je_LhsDlv",
+      "title": "CSS",
+      "description": "CSS is ...",
+      "user_id": "Owf_cB77c"
+    },
+    {
+      "id": "QhxmXJl-w",
+      "title": "Express",
+      "description": "Express is ...",
+      "user_id": "vx__MH2Ez"
+    }
+  ]
+}
