@@ -1,0 +1,18 @@
+[
+  {
+    "id": "0",
+    "name": "Cat Grooming Brush",
+    "category": "Care Tools",
+    "image": "assets/cat_care_tools1.jpg",
+    "price": "15.29",
+    "description": "Care for cat grooming with brush"
+  },
+  {
+    "id": "1",
+    "name": "Cat Nail Clipper",
+    "category": "Care Tools",
+    "image": "assets/cat_care_tools2.jpg",
+    "price": "12.25",
+    "description": "Care for cat nail clipping"
+  }
+]

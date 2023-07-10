@@ -1,0 +1,26 @@
+[
+  {
+    "id": "0",
+    "name": "Ciao Churu",
+    "category": "Food",
+    "image": "assets/cat_food1.jpg",
+    "price": "2.98",
+    "description": "Liquid food for cat snacks manufactured by Japanese pet food company Inaba Pet Food"
+  },
+  {
+    "id": "1",
+    "name": "Meow Mix",
+    "category": "Food",
+    "image": "assets/cat_food2.jpg",
+    "price": "9.77",
+    "description": "Food for livestock or pets"
+  },
+  {
+    "id": "2",
+    "name": "Churu Pops",
+    "category": "Food",
+    "image": "assets/cat_food3.jpg",
+    "price": "1.12",
+    "description": "Liquid food for cat"
+  }
+]

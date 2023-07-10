@@ -1,0 +1,10 @@
+[
+  {
+    "id": "0",
+    "name": "Cat Carrier",
+    "category": "Carrier",
+    "image": "assets/cat_carrier1.jpg",
+    "price": "36.04",
+    "description": "Carrier for safely transporting cats, such as in veterinary hospitals or moving"
+  }
+]
