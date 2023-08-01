@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "title": "석촌호수",
+    "latitude": "37.509854",
+    "longitude": "127.102656"
+  },
+  {
+    "id": 2,
+    "title": "신촌",
+    "latitude": "37.555692",
+    "longitude": "126.936933"
+  },
+  {
+    "id": 3,
+    "title": "DDP",
+    "latitude": "37.565796",
+    "longitude": "127.009343"
+  },
+  {
+    "id": 4,
+    "title": "대학로",
+    "latitude": "37.579095",
+    "longitude": "127.001771"
+  },
+  {
+    "id": 5,
+    "title": "선유도공원",
+    "latitude": "37.543121",
+    "longitude": "126.901081"
+  },
+  {
+    "id": 6,
+    "title": "신림",
+    "latitude": "37.482411",
+    "longitude": "126.929253"
+  },
+  {
+    "id": 7,
+    "title": "어린이대공원",
+    "latitude": "37.549034",
+    "longitude": "127.075495"
+  },
+  {
+    "id": 8,
+    "title": "서울숲",
+    "latitude": "37.545385",
+    "longitude": "127.038691"
+  },
+  {
+    "id": 9,
+    "title": "잠실",
+    "latitude": "37.511662",
+    "longitude": "127.059159"
+  },
+  {
+    "id": 10,
+    "title": "여의도",
+    "latitude": "37.525422",
+    "longitude": "126.925932"
+  },
+  {
+    "id": 11,
+    "title": "뚝섬",
+    "latitude": "37.530267",
+    "longitude": "127.064717"
+  },
+  {
+    "id": 12,
+    "title": "노들섬",
+    "latitude": "37.517691",
+    "longitude": "126.959493"
+  },
+  {
+    "id": 13,
+    "title": "서울대공원",
+    "latitude": "37.427692",
+    "longitude": "127.016836"
+  },
+  {
+    "id": 14,
+    "title": "천호지하도로",
+    "latitude": "37.538452",
+    "longitude": "127.123767"
+  },
+  {
+    "id": 15,
+    "title": "수서역",
+    "latitude": "37.487446",
+    "longitude": "127.101461"
+  }
+]
